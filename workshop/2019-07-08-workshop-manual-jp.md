@@ -14,7 +14,7 @@ After you have finished the deployment of the Appliance, Host, and Guest Modules
 
 ## What is a Scope? 
 
-A data cetner application. 
+A data center application. 
 
 ## What is the purpose of a Scope? 
 
