@@ -16,7 +16,7 @@ Listed below are a number of videos which have been produced by various members 
 
 ## AppDefense Deployment Cycle 
 
-{% include video id="0MOMZYitLa8&t=278s" provider="youtube" %}
+{% include video id="0MOMZYitLa8&t" provider="youtube" %}
 
 ## AppDefense Prerequisites
 
@@ -24,7 +24,7 @@ Listed below are a number of videos which have been produced by various members 
 
 ## Scope and Service Creation 
 
-{% include video id="0_FdEkZYsVI&t=22s" provider="youtube" %}
+{% include video id="0_FdEkZYsVI&t" provider="youtube" %}
 
 ## Scope and Service creation turtorial
 
@@ -32,7 +32,7 @@ Listed below are a number of videos which have been produced by various members 
 
 ## Moving to Protected Mode 
 
-{% include video id="ecssrfaDrPpY" provider="youtube" %}
+{% include video id="cssrfaDrPpY" provider="youtube" %}
 
 ## Alert Classififcaiton 
 
@@ -40,4 +40,4 @@ Listed below are a number of videos which have been produced by various members 
 
 ## Process Monitoring
 
-{% include video id="88_7RzmzX4A" provider="youtube" %}
+{% include video id="lS9gk-07B9A" provider="youtube" %}
