@@ -14,34 +14,30 @@ Listed below are a number of videos which have been produced by various members 
 
 {% include video id="h1L8DelUhus" provider="youtube" %}
 
-## VMware Cloud on AWS - Firewall Rule Accelerator Feature
+## AppDefense Deployment Cycle 
 
-{% include video id="JJHt9dowzUw" provider="youtube" %}
+{% include video id="0MOMZYitLa8&t=278s" provider="youtube" %}
 
-## VMware Cloud on AWS - DRaaS with Site Recovery Manager
+## AppDefense Prerequisites
 
-{% include video id="-6ZkYEotT0M" provider="youtube" %}
+{% include video id="M0sFAbinFgM" provider="youtube" %}
 
-## VMware Cloud on AWS - Native AWS Service (Load Balancing)
+## Scope and Service Creation 
 
-{% include video id="MzEoenFI7BU" provider="youtube" %}
+{% include video id="0_FdEkZYsVI&t=22s" provider="youtube" %}
 
-## VMware Cloud on AWS - L3VPN Configuration
+## Scope and Service creation turtorial
 
 {% include video id="t2rmOzn80qo" provider="youtube" %}
 
-## VMware Cloud on AWS - L2VPN Configuration
+## Moving to Protected Mode 
 
-{% include video id="e5LAqJ5Nekg" provider="youtube" %}
+{% include video id="ecssrfaDrPpY" provider="youtube" %}
 
-## VMware Cloud on AWS - HLM Configuration
+## Alert Classififcaiton 
 
-{% include video id="q4HVY4NpldY" provider="youtube" %}
+{% include video id="QbmfQBalTGw" provider="youtube" %}
 
-## VMware Cloud on AWS - HLM Validation
+## Process Monitoring
 
 {% include video id="88_7RzmzX4A" provider="youtube" %}
-
-## VMware Cloud on AWS - HCX Integration
-
-{% include video id="bogWtHSLv1g" provider="youtube" %}
