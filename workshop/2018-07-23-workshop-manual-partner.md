@@ -7,7 +7,6 @@ tags: workshop
 classes: wide
 author_profile: false
 ---
-# What Is Appdefense? 
 
 AppDefense is a data center endpoint security product that protects applications running in a virtualized environment.
 
