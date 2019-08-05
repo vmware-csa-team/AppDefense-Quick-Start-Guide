@@ -7,7 +7,7 @@ tags: workshop
 classes: wide
 author_profile: false
 ---
-# Deployment Timeline
+## Deployment Timeline
 
 AppDefense takes between 4-6 weeks to fully deploy and get operationalized. Below is an overview of the weekly deployment schedule once all pre-requistes are met: 
 
