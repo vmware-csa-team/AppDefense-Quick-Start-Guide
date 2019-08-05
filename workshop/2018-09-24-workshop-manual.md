@@ -51,5 +51,5 @@ Moving to Protected Mode is a simple proccess. Following the 14 day discovery pe
 
 Below are a list of the URLs realated to Protected Mode that you may find useful:
 
-Moving to Protected Mode by Paige Clapper <https://www.youtube.com/watch?v=cssrfaDrPpY>
+Moving to Protected Mode by Paige Schmidt <https://www.youtube.com/watch?v=cssrfaDrPpY>
 

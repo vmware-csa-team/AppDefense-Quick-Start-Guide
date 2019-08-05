@@ -7,8 +7,6 @@ tags: students
 classes: wide
 ---
 
-## Log in to AppDefense Manager
-
 The AppDefense Manager dashboard displays the following: 
 
 ### Protection Coverage Section 
