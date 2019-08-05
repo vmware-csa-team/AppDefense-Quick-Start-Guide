@@ -22,7 +22,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "vmc-field-team"
+    shortname            : "Vmware AppDefense Team"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -104,7 +104,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "vmc-field-team"
+  github           : "Vmware AppDefense Team"
   gitlab           :
   google_plus      :
   keybase          :
