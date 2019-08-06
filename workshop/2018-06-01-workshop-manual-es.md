@@ -11,15 +11,15 @@ author_profile: false
 
 AppDefense takes between 4-6 weeks to fully deploy and get operationalized. Below is an overview of the weekly deployment schedule once all pre-requistes are met: 
 
-Week One:
+### Week One:
 Deploy the Appdefense Appliance, Host,  and Guest Modules. (This step)
 Set up scopes and Services
 
-Week Two-Three:
+### Week Two-Three:
 Once Scopes and Services are set up discovery will begin 
 No user action for this period of time
 
-Week Four-Five:
+### Week Four-Five:
 Check the Scope Dashboard to see if the number of behaviors learned over time has tapered off
 Move to protected mode
 Integrate with internal SIEM
