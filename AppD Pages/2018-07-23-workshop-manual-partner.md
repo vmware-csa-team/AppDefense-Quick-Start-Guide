@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "What is Appdefense?"
+title: "What is AppDefense?"
 permalink: /workshop-manual-partner/
 date: 2018-06-01
 tags: workshop
