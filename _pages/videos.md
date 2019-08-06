@@ -16,7 +16,7 @@ Listed below are a number of videos which have been produced by various members 
 
 ## AppDefense Deployment Cycle 
 
-{% include video id="v=0MOMZYitLa8&t=279s" provider="youtube" %}
+{% include video id="0MOMZYitLa8&t" provider="youtube" %}
 
 ## AppDefense Prerequisites
 
@@ -24,7 +24,7 @@ Listed below are a number of videos which have been produced by various members 
 
 ## Scope and Service Creation 
 
-{% include video id="v=0_FdEkZYsVI&t=22s" provider="youtube" %}
+{% include video id="0_FdEkZYsVI&t" provider="youtube" %}
 
 ## Scope and Service creation turtorial
 
