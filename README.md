@@ -1,6 +1,6 @@
 ![readme banner](https://vmc-field-team.github.io/assets/images/splash_01.jpg)
 
-# VMware Appdefense Team Site
+# VMware AppDefense Team Site
 Welcome to the Repository for the VMware AppDefense Team . This site is used as a location for AppDefense content to guide customers and partners through installing, deploying and using AppDefense. The site is priamrily maintained by the VMware AppDefense Team.
 
 ## Contributing Guidelines
