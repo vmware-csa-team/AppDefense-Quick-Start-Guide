@@ -11,7 +11,6 @@ author_profile: false
 After you have finished the deployment of the Appliance, Host, and Guest Modules you can then begin to set up scopes and services. Please follow the best practices on how to set up scopes and services.
 
 ## Scope and Service creation turtorial
-
 {% include video id="ZCql21viGDY" provider="youtube" %}
 
 ## What is a Scope? 
