@@ -16,7 +16,7 @@ Deploy the Appdefense Appliance, Host,  and Guest Modules. (This step)
 Set up scopes and Services
 
 ### Week Two-Three:
-Once Scopes and Services are set up discovery will begin 
+Once Scopes and Services are set up discovery will begin.
 No user action for this period of time
 
 ### Week Four-Five:
