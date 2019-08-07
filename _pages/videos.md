@@ -18,6 +18,9 @@ Listed below are a number of videos which have been produced by various members 
 
 {% include video id="0MOMZYitLa8&t" provider="youtube" %}
 
+## AppDefense Deployment Demo 
+{% include video id="D2nMRzmJXF0" provider="youtube" %}
+
 ## AppDefense Prerequisites
 
 {% include video id="M0sFAbinFgM" provider="youtube" %}
@@ -41,3 +44,5 @@ Listed below are a number of videos which have been produced by various members 
 ## Process Monitoring
 
 {% include video id="lS9gk-07B9A" provider="youtube" %}
+
+

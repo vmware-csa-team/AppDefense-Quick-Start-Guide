@@ -27,19 +27,25 @@ Integrate with internal SIEM
 Beyond: 
 Identify and implement desired rules for service(s)
 
+## AppDefense Deployment Demo 
+{% include video id="D2nMRzmJXF0" provider="youtube" %}
+
 ## Deployment Procedure 
-1. Deploy the OVA
-include networking requirement info/ admin and root password tips
+1. Deploy the OVA: 
+- Networking requirements: Appliance IP,gateway,fully qualified domain name,search path, domain IP, netmask
+- Root password cannot be recovered.
+- Root and Admin password must be at least 8 characters with complexity requirements. 
 2. Register appliance
-SSO Creds/ best practice tips
+- HTTPS:// <Appliance IP>
+- You will need SSO credentials to register the appliance.
 3. Deploy host from AppDefense Manager
-This needs to be done with every host that will have AppDefense enabled VMs
- This does not require a reboot!
+- VIB only install, does not require reboot. 
+- This needs to be done with every host that will have AppDefense enabled VMs
 4. Deploy Guest Module (through VMtools)
 you will need version 10.3.2 or higher of VMtools
-- Please plan for a reboot with the guest module Install
+- Please plan for a reboot with the guest module install
 - Check some of our blogs for scripting tips to deploy to many VMs
-- Enable guest integrity
+- Enable guest integrity from the AppDefense Manager 
 - Deploy the guest module
 
 ### Helpful URL's
