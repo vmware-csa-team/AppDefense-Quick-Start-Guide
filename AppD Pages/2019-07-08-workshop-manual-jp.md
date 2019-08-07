@@ -14,8 +14,6 @@ After you have finished the deployment of the Appliance, Host, and Guest Modules
 
  A scope is a data center application.
 
-<img src= "scopedash.png" alt= "Scope picture" width= "300" height="600'>
-
 ## What is the purpose of a Scope? 
 
 To establish the inteneded state of an application and it's allowed behaviors. 
