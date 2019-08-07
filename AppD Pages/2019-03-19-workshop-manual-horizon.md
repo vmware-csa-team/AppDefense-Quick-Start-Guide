@@ -30,8 +30,8 @@ System integrity driven events = Appdefense modeule Integrity, Gues OS Integrity
 
 Managment Driven Events= Management Alert, Guest module down, 
 
-## Blacklist and Whiteliost 
-A Blacklist is an explicit listing of processes that are not allowed, when added to the Blacklist a process will be removed from every service in every scope.  A Whitelist is an explicit listing of processes that are allowed, once added to the Whitelist a process will be added to every service within every scope.  This can be applied in the service or in the "manage process" tab. 
+## Blacklist and Whitelist 
+Blacklisting is the explicit listing of processes that are not allowed, when added to the Blacklist a process will be removed from every service in every scope.  A Whitelist is an explicit listing of processes that are allowed, once added to the Whitelist a process will be added to every service within every scope.  This can be applied in the service or in the "manage process" tab. 
 
 ### Helpful URL's
 
