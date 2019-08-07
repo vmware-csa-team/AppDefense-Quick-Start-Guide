@@ -36,7 +36,7 @@ Identify and implement desired rules for service(s)
 - Root password cannot be recovered.
 - Root and Admin password must be at least 8 characters with complexity requirements. 
 2. Register appliance
-- HTTPS:// <Appliance IP>
+- HTTPS:// < Appliance IP >
 - You will need SSO credentials to register the appliance.
 3. Deploy host from AppDefense Manager
 - VIB only install, does not require reboot. 
