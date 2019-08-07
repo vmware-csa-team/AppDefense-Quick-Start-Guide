@@ -2,9 +2,9 @@
 main:
   - title: "AppDefense Manager Login"
     url: /student-access/
-  - title: "AppDefense Useful Links"
+  - title: "Helpful Links"
     url: /links/
-  - title: "AppDefense Videos"
+  - title: "Videos"
     url: /videos/
   - title: "About"
     url: /about/
