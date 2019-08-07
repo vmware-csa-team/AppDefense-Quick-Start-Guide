@@ -9,7 +9,7 @@ author_profile: false
 ---
 ## Deployment Timeline
 
-AppDefense takes between 4-6 weeks to fully deploy and get operationalized. Below is an overview of the weekly deployment schedule once all pre-requistes are met: 
+AppDefense takes between 4-6 weeks to fully deploy and operationalize. Below is an overview of the weekly deployment schedule once all pre-requistes are met: 
 
 ### Week One:
 Deploy the Appdefense Appliance, Host,  and Guest Modules. (This step)
@@ -50,12 +50,3 @@ Appdefense Deployment cycle explained by Paige Clapper: <https://www.youtube.com
 
 Deployment Tutorial:  <https://www.youtube.com/watch?v=D2nMRzmJXF0&t=40s>
 
-
-<!---
-If you are interested in exploring the DRaaS use case in the **VMware Site Recovery Manager** lab, you will need to pair up with another team so that one team can be the "protected site" and the other team can be the "failover" site. All other labs can be completed individually.
--->
-
-<!--
-[VMware Site Recovery Manager](https://vmc-field-team.github.io/labs/v2/srm-lab/){:target="_blank"} | Learn how you can utilize VMware on AWS for DRaaS use cases
-[VMware vRealize Automation](https://vmc-field-team.github.io/labs/v2/vra-lab/){:target="_blank"} | Utilize integration capabilities with VMware cloud management tools
--->

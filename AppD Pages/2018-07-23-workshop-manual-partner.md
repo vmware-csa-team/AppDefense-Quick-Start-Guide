@@ -52,7 +52,7 @@ Appdefense Manager Login <https://appdefense.vmware.com/app/sign-in-user>
 
 Learn how Appdefense works from Tom Corn: <https://www.youtube.com/watch?v=HiJgn6GGX5w>
 
-Get an overview of the Appdefense quick start guide by Stanton Thomas: <https://prezi.com/p/brsxr06esozp/ad-example/>
+Interactive quick start guide by Stanton Thomas: <https://prezi.com/p/brsxr06esozp/ad-example/>
 
 
 
