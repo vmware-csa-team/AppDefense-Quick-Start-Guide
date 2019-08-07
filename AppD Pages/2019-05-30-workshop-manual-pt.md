@@ -54,7 +54,7 @@ action select "Block and send alert"
 
 ### Power Off
 
-Virtual machine is powerted off directly on the vCetner Server.
+Virtual machine is powerted off directly on the vCenter Server.
 
 "Power Off" is a remediation action that can be enforced by following this procedure: 
 1. Select your Scope from Dashboard. 
