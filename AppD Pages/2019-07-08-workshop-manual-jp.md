@@ -39,6 +39,3 @@ Create a Service within a Scope:
 Helpful URl's For Scopes and Services: 
 
 
-
-<!-- [VMware Site Recovery Manager](https://vmc-field-team.github.io/labs-jp/srm-lab-jp/){:target="_blank"} | 災害対策のユースケースにおいて、どのように VMware Cloud on AWS を利用するのかを学びます -->
-<!-- [VMware vRealize Automation](https://vmc-field-team.github.io/labs-jp/vra-lab-jp/){:target="_blank"} | VMware のクラウド管理ツールを用いた連携を学びます -->
