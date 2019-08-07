@@ -28,9 +28,9 @@ After AppDefense detects a threat, AppDefense automates a response using vSphere
 A target application environment that will be protected by AppDefense must have the following:
 
 1. Hosts running ESXi 6.5u1 or later.
-2. Minimum vCenter 6.5u1 managing the ESXi hosts.  If using anything less than vCenter 6.7u1, then there is no plugin.
+2. Minimum vCenter 6.5u1 managing the ESXi hosts. If you use anything less than vCenter 6.7u1, then there will be no      plugin.
 3. Complete installation of VMTools of at least version 10.3.2. (Windows Only)
-4. VM Hardware type set to version 13+.
+4. Set VM Hardware type to version 13+.
 5. IP Address for AppDefense Appliance OVA.
 6. HTTPS connectivity from the Appliance to the internet. (appdefense.vmware.com)
 7. SSO Admin Credentials to register the Appliance. 
