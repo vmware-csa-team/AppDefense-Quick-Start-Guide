@@ -12,23 +12,34 @@ author_profile: false
 AppDefense takes between 4-6 weeks to fully deploy and operationalize. Below is an overview of the weekly deployment schedule once all pre-requistes are met: 
 
 ### Week One:
-Deploy the Appdefense Appliance, Host,  and Guest Modules. (This step)
+Deploy the Appdefense Appliance, Host, and Guest Modules (this step).
 Set up scopes and Services
 
 ### Week Two-Three:
-Once Scopes and Services are set up discovery will begin.
+Once Scopes and Services are set up, discovery will begin.
 No user action for this period of time
 
 ### Week Four-Five:
-Check the Scope Dashboard to see if the number of behaviors learned over time has tapered off
-Move to protected mode
-Integrate with internal SIEM
+Check the Scope Dashboard to see if the number of behaviors learned over time has tapered off,
+move to protected mode, and 
+integrate with internal SIEM (opitional)
 
 Beyond: 
 Identify and implement desired rules for service(s)
 
 ## AppDefense Deployment Demo 
 {% include video id="D2nMRzmJXF0" provider="youtube" %}
+
+# Technical Pre-reqs
+ Target application(s) that will be protected by AppDefense must have the following:
+1. Hosts running ESXi 6.5u1 or later.
+2. Minimum vCenter 6.5u1 managing the ESXi hosts. If you use anything less than vCenter 6.7u1, then there will be no      plugin.
+3. Complete installation of VMTools of at least version 10.3.2. (Windows Only)
+4. Set VM Hardware type to version 13+.
+5. IP Address for AppDefense Appliance OVA.
+6. HTTPS connectivity from the Appliance to the internet. (appdefense.vmware.com)
+7. SSO Admin Credentials to register the Appliance. 
+8. Received Login email from AppDefense support. (If you haven't recevived this email check FAQ section)
 
 ## Deployment Procedure 
 1. Deploy the OVA: 
@@ -52,7 +63,4 @@ you will need version 10.3.2 or higher of VMtools
 
 Find helpful links to documentation and videos related to deployment below
 
-Appdefense Deployment cycle explained by Paige Clapper: <https://www.youtube.com/watch?v=PYH9Cdg6F9Q&t=1s>
-
-Deployment Tutorial:  <https://www.youtube.com/watch?v=D2nMRzmJXF0&t=40s>
-
+## Blog Post 
