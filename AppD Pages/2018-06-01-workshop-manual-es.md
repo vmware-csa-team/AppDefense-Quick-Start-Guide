@@ -43,7 +43,7 @@ Identify and implement desired rules for service(s)
 
 ## Deployment Procedure 
 1. Deploy the OVA: 
-- Networking requirements: Appliance IP,gateway,fully qualified domain name,search path, domain IP, netmask
+- Networking requirements: Appliance IP, gateway, fully qualified domain name, search path, Domain IP and Netmask.
 - Root password cannot be recovered.
 - Root and Admin password must be at least 8 characters with complexity requirements. 
 2. Register appliance
