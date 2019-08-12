@@ -12,14 +12,22 @@ Here you will find questions that are frequently asked about AppDefense.
 
 ### How to get support from Appdefense?
 
+There are two ways to get support with VMware AppDefense:
+
+Chatting in the AppDefense manager with a technical engineer.
+Logging a ticket through ‘My VMware’ portal (traditional support method).
+
+For more information on this topic please visit our community blog page:
+[How do you get support for Vmware AppDefense?](https://communities.vmware.com/thread/616075){:target="_blank"} 
+
 
 
 ### How long does it take to install? 
 
 VMware AppDefense should take no longer than 4-5 weeks to get to a protected state. For the majority of this time, the application will be in Discovery Mode (1-3 weeks), requiring no user action. 
 
-For more information on this topic please visit our community blog page. 
-[How long does AppDefense take to install](https://communities.vmware.com/message/2872636#2872636){:target="_blank"} 
+For more information on this topic please visit our community blog page:
+[How long does AppDefense take to install?](https://communities.vmware.com/message/2872636#2872636){:target="_blank"} 
 
 ### How do I Install AppDefense? 
 
