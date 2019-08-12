@@ -14,8 +14,8 @@ Here you will find questions that are frequently asked about AppDefense.
 
 There are two ways to get support with VMware AppDefense:
 
-Chatting in the AppDefense manager with a technical engineer.
-Logging a ticket through ‘My VMware’ portal (traditional support method).
+1. Chatting in the AppDefense manager with a technical engineer.
+2. Logging a ticket through ‘My VMware’ portal (traditional support method).
 
 For more information on this topic please visit our community blog page:
 [How do you get support for Vmware AppDefense?](https://communities.vmware.com/thread/616075){:target="_blank"} 
