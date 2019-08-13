@@ -39,7 +39,7 @@ Physical Deployment
 4. Finally, install to the guest through VMtools. (enable guest integrity and plan accordingly as this will take a reboot of the guest).
 
 For further steps please visit our our community blog page:  
-[How do I Install Apdefense?](https://communities.vmware.com/thread/613569){:target="_blank"} 
+[How do I Install Appdefense?](https://communities.vmware.com/thread/613569){:target="_blank"} 
 
 
 ### How should I setup Scopes and Services? 
