@@ -37,11 +37,9 @@ After AppDefense detects a threat, AppDefense automates a response using vSphere
 
 ### Helpful URL's
 
-Appdefense Manager Login <https://appdefense.vmware.com/app/sign-in-user>
 
 Learn how Appdefense works from Tom Corn: <https://www.youtube.com/watch?v=HiJgn6GGX5w>
 
-Interactive quick start guide by Stanton Thomas: <https://prezi.com/p/brsxr06esozp/ad-example/>
 
 
 
