@@ -63,4 +63,4 @@ you will need version 10.3.2 or higher of VMtools
 
 Find helpful links to documentation and videos related to deployment below
 
-## Blog Post 
+
