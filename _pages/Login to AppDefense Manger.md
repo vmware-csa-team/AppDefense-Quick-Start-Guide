@@ -25,4 +25,4 @@ Scopes in discovery section displays scopes in Discovery Mode with the number of
 ### Provisioning Events Section 
 Provisioning events section displays the list of provisioning events. AppDefense can tie into provisioning systems that can help to define appropriate and allowed behaviors. Systems like vRealize Orchestrator, vRealize Automation, Puppet, and Ansible. AppDefense also supports integration with other security vendors such as Splunk, IBM QRadar, Cb Defense, Aqua Security, and so on. Click the View All Events link and view the Provisioning page.
 
-[VMware AppDefense Manager Login in](https://appdefense.vmware.com/app/console/dashboard)
+[VMware AppDefense Manager Login](https://appdefense.vmware.com/app/console/dashboard)
