@@ -21,7 +21,7 @@ After you have finished the deployment of the Appliance, Host, and Guest Modules
 
 To establish the inteneded state of an application and it's allowed behaviors. 
 
-## What is a service? 
+## What is a Service? 
 
 A tier within a data center application (i.e web,app,DB,etc). In AppDefense a service should contain homogenous members (VMs), and where the verified behavior list and rules will be located for learned processes. 
 
