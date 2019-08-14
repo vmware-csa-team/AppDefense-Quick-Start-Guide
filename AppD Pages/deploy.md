@@ -59,8 +59,6 @@ you will need version 10.3.2 or higher of VMtools
 - Enable guest integrity from the AppDefense Manager 
 - Deploy the guest module
 
-### Helpful URL's
 
-Find helpful links to documentation and videos related to deployment below
 
 
