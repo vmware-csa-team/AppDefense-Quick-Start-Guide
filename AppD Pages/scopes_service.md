@@ -19,11 +19,11 @@ After you have finished the deployment of the Appliance, Host, and Guest Modules
 
 ## What is the purpose of a Scope? 
 
-To establish the inteneded state of an application and it's allowed behaviors. 
+The purpose of a scope is to establish the inteneded state of an application and it's allowed behaviors. 
 
 ## What is a Service? 
 
-A tier within a data center application (i.e web,app,DB,etc). In AppDefense a service should contain homogenous members (VMs), and where the verified behavior list and rules will be located for learned processes. 
+A service is a tier within a data center application (i.e web,app,DB,etc).In AppDefense a service should contain homogenous members (VMs), and where the verified behavior list and rules will be located for learned processes. 
 
 # How to create a Scope and Service
 
