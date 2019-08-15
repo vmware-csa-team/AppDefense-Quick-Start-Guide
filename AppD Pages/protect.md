@@ -8,7 +8,7 @@ classes: wide
 author_profile: false
 ---
 ## What is Protected Mode? 
-In Protected Mode, application beahavior is locked down and rules are applied.
+In Protected Mode, application behavior is locked down and rules are applied.
 
 ### What happens when I move my scope into Protected Mode? 
 When a scope is moved into Protected Mode,all application behavior is now locked down, and if rules and remediation actions are setup they will be enforced (the default rule is alert only-no action will be taken). The armor has been applied, and your application is now safe in Protected Mode.
