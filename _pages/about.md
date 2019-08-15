@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /about/
-title: "Frequently asked questions"
+title: "Frequently Asked Questions"
 date: 2018-06-02
 tags: about
 classes: wide
