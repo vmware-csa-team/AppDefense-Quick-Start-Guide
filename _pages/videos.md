@@ -16,7 +16,7 @@ Listed below are a number of videos which have been produced by various members 
 
 ## Quick Start Guide Overview - VMware AppDefense
 
-{% include video id="GRhmYjGVyO0&t" provider="youtube" %}
+{% include video id="GRhmYjGVyO0&t=19s" provider="youtube" %}
 
 ## AppDefense Deployment Cycle 
 
