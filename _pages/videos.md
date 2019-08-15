@@ -14,24 +14,12 @@ Listed below are a number of videos which have been produced by various members 
 
 {% include video id="h1L8DelUhus" provider="youtube" %}
 
-## Quick Start Guide Overview - VMware AppDefense
-
-{% include video id="GRhmYjGVyO0&t=19s" provider="youtube" %}
-
-## AppDefense Deployment Cycle 
-
-{% include video id="0MOMZYitLa8&t" provider="youtube" %}
-
 ## AppDefense Deployment Demo 
 {% include video id="D2nMRzmJXF0" provider="youtube" %}
 
 ## AppDefense Prerequisites
 
 {% include video id="M0sFAbinFgM" provider="youtube" %}
-
-## Scope and Service Creation 
-
-{% include video id="0_FdEkZYsVI&t" provider="youtube" %}
 
 ## Scope and Service creation turtorial
 
