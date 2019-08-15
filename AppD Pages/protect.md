@@ -10,11 +10,11 @@ author_profile: false
 ## What is Protected Mode? 
 In Protected Mode, application behavior is locked down and rules are applied.
 
-### What happens when I move my scope into Protected Mode? 
+### What happens when I move my Scope into Protected Mode? 
 When a scope is moved into Protected Mode,all application behavior is now locked down, and if rules and remediation actions are setup they will be enforced (the default rule is alert only-no action will be taken). The armor has been applied, and your application is now safe in Protected Mode.
 
 ## Types of Deviations
-When you put your scope into Protected Mode the process and behavior deviations from the verified behavior list will go through our classification engine. The results will be one of the following: Critical Alerts, Serious Alerts, Minor Event, Info Event, Provisioning Events, and System Updates. 
+When a scope enters Protected Mode, the process and behavior deviations from the verified behavior list will go through our classification engine. The results will be one of the following: Critical Alerts, Serious Alerts, Minor Event, Info Event, Provisioning Events, and System Updates. 
 
 The deviations from the verified behavior list consisit of the following: 
 
