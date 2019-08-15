@@ -10,9 +10,9 @@ classes: wide
 Here you will find questions that are frequently asked about AppDefense. 
 
 
-### How to get support from Appdefense?
+### How do I get support from Appdefense?
 
-There are two ways to get support with VMware AppDefense:
+There are two ways to get support with AppDefense:
 
 1. Chatting in the AppDefense manager with a technical engineer.
 2. Logging a ticket through ‘My VMware’ portal (traditional support method).
