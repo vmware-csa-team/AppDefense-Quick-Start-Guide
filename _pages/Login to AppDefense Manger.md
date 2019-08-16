@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /student-access/
-title: "Login AppDefense Manager"
+title: "AppDefense Manager"
 date: 2018-09-24
 tags: students
 classes: wide
