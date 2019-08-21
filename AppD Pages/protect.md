@@ -53,5 +53,5 @@ Example of Events (minor, info, provisioning, updates):
 - Blacklist: is the explicit listing of processes that are not allowed in an org, when added to the Blacklist a process will be removed from every service in every scope.  
 - Whitelist: is an explicit listing of processes that are allowed, once added to the Whitelist a process will be added to every service within every scope.  This can be applied in the service or in the "manage process" tab. 
 
-
+[Opitional Next Stop](https://vmware-csa-team.github.io/vmware-csa-team/workshop-manual-jp/)
 
