@@ -59,6 +59,6 @@ you will need version 10.3.2 or higher of VMtools
 - Enable guest integrity from the AppDefense Manager 
 - Deploy the guest module
 
-[VMware AppDefense Page ](https://www.vmware.com/products/appdefense.html){:target="_blank"} | This link will take you to vmware.com for a product overview of AppDefense. 
+[Step Two](https://vmware-csa-team.github.io/vmware-csa-team/workshop-manual-jp/){:target="_blank"}
 
 
