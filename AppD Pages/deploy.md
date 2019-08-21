@@ -59,9 +59,9 @@ you will need version 10.3.2 or higher of VMtools
 - Enable guest integrity from the AppDefense Manager 
 - Deploy the guest module
 
-- title: "STEP TWO"
+main:
+  - title: "AppDefense Manager Login"
     url: /student-access/
-
 
 
 
