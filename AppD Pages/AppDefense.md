@@ -33,6 +33,8 @@ After AppDefense detects a threat, AppDefense automates a response using vSphere
 3. Host component- vib only- no reboot required.
 
 4. Guest module- enable guest integrity and then install guest modules through VMtools. (Please note this will require a reboot.)
+
+[Step One](https://vmware-csa-team.github.io/vmware-csa-team/workshop-manual-es/)
  
 
 
