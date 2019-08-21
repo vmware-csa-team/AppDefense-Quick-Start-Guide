@@ -59,9 +59,14 @@ you will need version 10.3.2 or higher of VMtools
 - Enable guest integrity from the AppDefense Manager 
 - Deploy the guest module
 
-main:
-  - title: "AppDefense Manager Login"
-    url: /student-access/
+feature_row:
+ - image_path: /assets/images/appd1.png
+    alt: "What is Appdefense?"
+    title: "What is AppDefense?"
+    excerpt: 'Click the below link to be directed to more information about what Appdefense is and how it works'
+    url: " https://vmware-csa-team.github.io/workshop-manual-partner/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
 
 
 
