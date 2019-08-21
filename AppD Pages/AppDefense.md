@@ -35,10 +35,6 @@ After AppDefense detects a threat, AppDefense automates a response using vSphere
 4. Guest module- enable guest integrity and then install guest modules through VMtools. (Please note this will require a reboot.)
  
 
-### Helpful URL's
-
-
-Learn how Appdefense works from Tom Corn: <https://www.youtube.com/watch?v=HiJgn6GGX5w>
 
 
 
