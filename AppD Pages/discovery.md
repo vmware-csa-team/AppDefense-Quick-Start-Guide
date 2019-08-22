@@ -50,5 +50,7 @@ Moving to Protected Mode is a simple proccess. Following the 14 day discovery pe
 3. Finally, identify any processes or behaviors that should be deleted/added to blacklist based on internal best practices. 
 4. To add the selected scope to the Protected Mode, click the Verify and Protect button at the top of the page. 
 
-[Step Four](https://vmware-csa-team.github.io/vmware-csa-team/workshop-manual-horizon/)
 
+<form>
+<a href="https://vmware-csa-team.github.io/vmware-csa-team/workshop-manual-horizon/"><button>Step Four</button></a>
+</form>
