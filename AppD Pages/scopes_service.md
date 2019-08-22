@@ -40,6 +40,6 @@ Create a Service within a Scope:
 4. On the Allowed Behavior page, do not add any allowed behaviors right now. System learns the behavior in the Discovery Mode, so you can skip adding any allowed behaviors initially.
 
 
-[Step Three](https://vmware-csa-team.github.io/vmware-csa-team/workshop-manual/)
+    <a href="http://stackoverflow.com"><button>Link Text</button></a>
 
 
