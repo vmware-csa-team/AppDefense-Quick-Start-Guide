@@ -36,11 +36,10 @@ After AppDefense detects a threat, AppDefense automates a response using vSphere
 
 
 
-<div style="text-align": center;">
-<input type="button" value="button">
+<form>
 <a href="https://vmware-csa-team.github.io/vmware-csa-team/workshop-manual-es/"><button>Step One</button></a>
+</form>
 </div>
-
 
 
 
