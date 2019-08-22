@@ -37,6 +37,8 @@ After AppDefense detects a threat, AppDefense automates a response using vSphere
 
 [Step One](https://vmware-csa-team.github.io/vmware-csa-team/workshop-manual-es/)
 
+<a href="https://vmware-csa-team.github.io/vmware-csa-team/workshop-manual-es/"><button>Step One</button></a>
+
 
 
 
