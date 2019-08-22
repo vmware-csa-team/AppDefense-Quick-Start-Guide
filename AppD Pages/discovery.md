@@ -51,6 +51,6 @@ Moving to Protected Mode is a simple proccess. Following the 14 day discovery pe
 4. To add the selected scope to the Protected Mode, click the Verify and Protect button at the top of the page. 
 
 
-<form>
+
 <a href="https://vmware-csa-team.github.io/vmware-csa-team/workshop-manual-horizon/"><button>Step Four</button></a>
-</form>
+
