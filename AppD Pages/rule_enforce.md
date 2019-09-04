@@ -10,7 +10,7 @@ author_profile: false
 ## Introduction to Rule Enforcement: 
 After the Scope is in Protected Mode, you can still review and edit services associated with the scope.
 
-By default, when  a Scope is moved to Protected Mode, the only remediation action is set to Alert and the enforcement is automatic. You can edit rule settings based on the action that you want AppDefense to take in the services tab.
+By default, when  a Scope moves into Protected Mode, the remediation action is set to Alert with automatic enforcement. You can edit rule settings based on the action that you want AppDefense to take in the services tab.
 
 There are four vectors that are used to trigger alert(s) and remediation(s):
 
@@ -23,7 +23,7 @@ You cannot set automatic remediation action for the Guest module down alert. Rem
 
 
 ### Quarantine (NSX Only): 
-Quarentine is an action of removing a VM from any network, isolating it from the rest of your enviornment. 
+Quarantine is an action of removing a VM from any network, isolating it from the rest of your environment. 
 
 Quarantine is a remediation action that can be enforced by following this procedure: 
 1. Select your Scope from Dashboard. 
