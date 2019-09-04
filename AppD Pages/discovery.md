@@ -15,7 +15,7 @@ In Discovery Mode AppDefense creates a list of allowed behaviors to build a blue
 This mode helps AppDefense to understand how the application must function so that AppDefense can identify malicious or unintended behaviors.
 
 ## What is learned in Discovery Mode? 
-- Processes: Standard executeable of an application. (svchost.exe is a standard executeable of a Microsoft service)
+- Processes: Standard executable of an application. (svchost.exe is a standard executable of a Microsoft service)
 - Behaviors: Process executions (CLIs) and network activities (inbound and outbound connections) exhibited within a service.
 
 ## Viewing Behaviors 
@@ -28,16 +28,16 @@ Path: Is the location where the process was launched from within the OS file str
 
 Hash: Hash is the value on the process. This is  extra protection, in case a rogue process using a trusted name is launched.
 
-Beahvior analysis: Behavior analysis can be Unknown, Anomalous, or Verified. Analysis for behaviors is displayed for all Processes.
+Behavior analysis: Behavior analysis can be Unknown, Anomalous, or Verified. Analysis of behaviors is displayed for all Processes.
 
 Reputation: Process reputation can be Good, Bad, or Unknown. If bad, investigate further or take immediate action. 
 
-Trust Score and Threat Score: The Trust Score and Threat Score values are provided by a back-end integration with a third-party reputation service for Windows-based services. This integration provides insight into common application processes.For Linux based systems, these scores are derived by integration from various package deployment sites.
+Trust Score and Threat Score: The Trust Score and Threat Score values are provided by a back-end integration with a third-party reputation service for Windows-based services. This integration provides insight into common application processes. For Linux based systems, these scores are derived by integration from various package deployment sites.
 
 Outbound and Inbound Connections: These sections provide information on what ports and IP addresses are being listened to and communicated across.
 
 ## Moving to Protected Mode: 
-Moving to Protected Mode is a simple proccess. Following the 14 day discovery period there are only a few steps to complete before moving to protected mode. 
+Moving to Protected Mode is a simple process. Following the 14 day discovery period, there are only a few steps to complete before moving to protected mode. 
 
 ## Moving to Protected Mode 
 
