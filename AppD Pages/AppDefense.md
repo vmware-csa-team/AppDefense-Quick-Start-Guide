@@ -27,13 +27,9 @@ After AppDefense detects a threat, AppDefense automates a response using vSphere
 # Installation Steps: 
 
 1. AppDefense Manager - No installation is required. The service is provisioned in the cloud. You will be sent an email with log-in information.
-
-2. Appliance - Install appliance on premise in management cluster. You will need one appliance for every vCenter. Following this you will register the appliance in the manager.
-
-3. Host component- vib only- no reboot required.
-
-4. Guest module- enable guest integrity and then install guest modules through VMtools. (Please note this will require a reboot.)
-
+2. Appliance - Install the appliance on-premise in the management cluster. You will need one appliance for every vCenter. Following this, you will register the appliance in the manager.
+3.Host component- vib only- no reboot required.
+4.Guest module- enable guest integrity and then install guest modules through VMtools. (Please note this will require a reboot.)
 
 
 <a href="https://vmware-csa-team.github.io/vmware-csa-team/workshop-manual-es/"><button>Step One</button></a>
